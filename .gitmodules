@@ -1,0 +1,3 @@
+[submodule "Team_clothes"]
+	path = Team_clothes
+	url = https://github.com/woo0121/shopping.git
